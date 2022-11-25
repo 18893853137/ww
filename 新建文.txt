@@ -9,3 +9,6 @@ char *StrCpy(char *src)
 	p[len] = '\0';
 	return p;
 }
+
+远程edit
+B21031513王志旭
